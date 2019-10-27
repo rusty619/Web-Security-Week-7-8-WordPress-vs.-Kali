@@ -13,3 +13,5 @@ A link will appear in the post. Have a user click that link to perform the XSS
 
 # Demo
 ![](Demo.gif)
+
+# Second way to perform XSS 
