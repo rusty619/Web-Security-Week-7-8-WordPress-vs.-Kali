@@ -24,3 +24,4 @@ Inject XSS by posting the code below
 WordPress <= 4.5.1
 
 # Demo
+![](Demo.gif)
